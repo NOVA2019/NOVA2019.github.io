@@ -14,4 +14,7 @@
         $('.ex').toggle();
     });
     
+/*    for St. Victor*/
+    $("span[class='hi'][rend='red']").css('color','red');
+    
 });
